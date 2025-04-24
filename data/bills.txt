@@ -1,0 +1,4 @@
+B103,P103,UNPAID,Checkup~40.0,40.0
+B104,P104,UNPAID,Checkup fee~30.0|Pain Killer~3.0,33.0
+B101,P101,UNPAID,Consultation Fee~50.0|Medication~10.0,60.0
+B102,P102,PAID,Consultation Fee~50.0|Bandage~5.0,55.0

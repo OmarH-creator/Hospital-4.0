@@ -1,0 +1,5 @@
+INV104,Antibiotic,30,1.5
+INV105,Bottles,20,3.0
+INV101,Aspirin,50,0.25
+INV102,Bandage,100,0.1
+INV103,Stethoscope,5,25.0
